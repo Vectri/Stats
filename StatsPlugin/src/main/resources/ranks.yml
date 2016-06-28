@@ -1,0 +1,24 @@
+# Modifying a rank will not update the reference on a weapon until it ranks up and in addition will not break counting statistics for that item.
+# ONE RANK MUST START AT 0. IF THERE IS NO RANK EQUAL TO 0 IT WILL DEFAULT TO STRANGE.
+ranks:
+  Strange: 0
+  Unremarkable: 10
+  Scarcely lethal: 25
+  Mildly menacing: 45
+  Somewhat threatening: 70
+  Uncharitable: 100
+  Notably dangerous: 135
+  Sufficiently lethal: 175
+  Truly feared: 225
+  Spectacularly lethal: 275
+  Gore spattered: 400
+  Wicked nasty: 500
+  Positively inhumane: 750
+  Totally ordinary: 999
+  Face melting: 1000
+  Rage inducing: 1500
+  Server clearing: 2500
+  Epic: 5000
+  Legendary: 7000
+  Australian: 7616
+  Hale's own: 8500

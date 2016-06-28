@@ -1,0 +1,12 @@
+name: Stats
+version: 1.8.8
+author: vectri
+main: io.github.vectri.Stats.Stats
+softdepend: [Vault]
+commands:
+  statistics:
+    description: Create and manage statistics.
+    usage: /<command> help
+    aliases: [stats, s]
+    permission: statistics.command
+    permission-message: You don't have <permission>

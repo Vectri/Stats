@@ -1,0 +1,8 @@
+economy:
+  # If set to true disables integrated economy regardless of absence of another economy plugin.
+  disable-integrated: false
+  # Only affects the internal economy's currency name.
+  currency-name: Bells
+ranks:
+  # 0 = Announce every rank up, 1 = Announce reaching highest rank, 2 = No announcements
+  announce-rank-up: 0

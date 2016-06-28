@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="StatsPlugin:jar">
+    <output-path>E:/Program Files/Minecraft/server/plugins</output-path>
+    <root id="root">
+      <element id="archive" name="StatsPlugin.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/StatsPlugin/src/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="StatsPlugin" />
+      </element>
+    </root>
+  </artifact>
+</component>
